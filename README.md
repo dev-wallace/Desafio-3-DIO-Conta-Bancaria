@@ -1,4 +1,4 @@
-﻿# Desafio-3-DIO-Conta-Bancaria
+# Desafio-3-DIO-Conta-Bancaria
 # Desafio 03 / 05 - Conta Bancária com Construtor em POO
 
 ## Descrição
@@ -19,12 +19,18 @@ A tabela abaixo apresenta exemplos com alguns dados de entrada e suas respectiva
 
 ### Entrada e Saída
 
-| Entrada | Saída |
-|---------|-------|
-| 50      | 50    |
-| 100     | Depósito feito. Saldo atual: 100.0 |
-|         | Saque feito. Saldo atual: 0.0      |
-| 90      | 90    |
-| 12      | Depósito feito. Saldo atual: 180.0 |
-|         | Saque feito. Saldo atual: 168.0    |
+| Entrada | Saída                                |
+|---------|--------------------------------------|
+|         | Depósito feito.   |
+| 50      | Saldo atual: 0.0                                       |
+| 50      |  Saque feito.                                    |
+| 100     |  Saldo atual: 0.0 
 
+
+##Exemplo 2 
+| Entrada | Saída                                |
+|---------|--------------------------------------|
+| 90      |  Depósito feito.|
+| 90      | Saldo atual: 180.0   |
+| 12        | Saque feito.      |
+|          |Saldo atual: 168.0 |
