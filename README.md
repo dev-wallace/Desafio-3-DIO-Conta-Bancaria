@@ -27,7 +27,8 @@ A tabela abaixo apresenta exemplos com alguns dados de entrada e suas respectiva
 | 100     |  Saldo atual: 0.0 
 
 
-##Exemplo 2 
+## Exemplo 2 
+
 | Entrada | Saída                                |
 |---------|--------------------------------------|
 | 90      |  Depósito feito.|
